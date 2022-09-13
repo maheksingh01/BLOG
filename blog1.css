@@ -1,0 +1,225 @@
+
+#body2 {
+    background-color: orangered;
+    width: 1500px;
+    height: 150px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+#logo {
+    width: 125px;
+    height: 125px;
+    margin-top: 15px;
+    padding-left: 150px;
+}
+
+#search-box {
+    width: 125px;
+    height: 75px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-left: 200px;
+}
+
+
+
+#background {
+    width: 1500px;
+    height:600px;
+    margin: 0px;
+    padding:0px;
+}
+
+
+.main-heading{
+    position: absolute;
+    top: 385px;
+    left:500px;
+    color: whitesmoke;
+    font-size: 36px;
+}
+
+.subline {
+    
+    position: absolute;
+    top: 420px;
+    left:550px;
+    color: black;
+    font-size: 24px;
+
+}
+
+
+.semiline {
+    
+    position: absolute;
+    top: 440px;
+    left:470px;
+    color: black;
+    font-size: 24px;
+
+}
+
+.Bio {
+    position: absolute;
+    top: 400px;
+    left:120px;
+    color: black;
+    font-size: 36px;
+}
+
+
+.Bio1{
+    position: absolute;
+    text-align:center;
+    top: 440px;
+    left:70px;
+    color: blueviolet;
+    font-size: 24px;
+}
+
+
+.Image1 {
+    position: absolute;
+    width: 425px;
+    height: 400px;
+    margin-bottom: 250px;
+    padding-left: 240px;
+}
+
+.Image {
+    position: absolute;
+    width: 425px;
+    height: 400px;
+    margin-bottom: 250px;
+    padding-left: 50px;
+}
+
+.Image2 {
+    position: absolute;
+    width: 425px;
+    height: 400px;
+    margin-bottom: 250px;
+    padding-left: 465px;
+}
+
+
+.Channel  {
+    
+    position: absolute;
+    width: 300px;
+    top: 400px;
+    left:600px;
+    color:black;
+    font-size: 36px;
+}
+
+.Bio2{
+    position: absolute;
+    text-align: left;
+    width: 300px;
+    top: 440px;
+    left:575px;
+    color: blueviolet;
+    font-size: 24px;
+}
+
+
+.Channel1  {
+    
+    position: absolute;
+    width: 250px;
+    top: 400px;
+    left:1050px;
+    color:black;
+    font-size: 36px;
+}
+
+
+.Bio3{
+    position: absolute;
+    text-align: left;
+    width: 300px;
+    top: 450px;
+    left:1000px;
+    color: blueviolet;
+    font-size: 24px;
+}
+
+
+.footercontainer{
+    background-color: aqua;
+    margin-top:950px;
+    padding-left: 0px;
+    width: 1500px;
+    height: 500px;
+}
+
+
+.Maa {
+    position: absolute;
+    width: 325px;
+    height: 300px;
+    margin-bottom: 240px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.Vaishno {
+    position: absolute;
+    width: 300px;
+    top: 2050px;
+    left:10px;
+    color:black;
+    font-size: 36px;
+}
+
+.vaishno1 {
+    text-align: center;
+    position: absolute;
+    top: 2100px;
+    left:40px;
+    color: red;
+    font-size: 24px;
+}
+
+.Devimaa {
+    position: absolute;
+    width: 325px;
+    height: 300px;
+    margin-bottom: 240px;
+    padding-left: 350px;
+    margin-top: 10px;
+}
+
+
+.Devimaa1{
+    position: absolute;
+    width: 300px;
+    top: 2050px;
+    left:375px;
+    color:black;
+    font-size: 36px;
+}
+
+
+.Devimaa2 {
+    text-align: center;
+    position: absolute;
+    top: 2100px;
+    left:385px;
+    color: red;
+    font-size: 24px;
+}
+
+.table{
+    position: absolute;
+    width: 325px;
+    height: 300px;
+    margin-bottom: 240px;
+    padding-left: 25px;
+    margin-top: 600px;
+}
